@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: 2018-10-18T16:25:48.7539178+09:00
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-18T16:30:07.2967695+09:00
+    description: A Helm chart for Kubernetes
+    digest: 9ae0cc9d2e501b96f165c39c701ee108ffd5811c454f891da924cf7ee2d2d440
+    name: demo
+    urls:
+    - https://jejblue.github.io/my-charts/stable/demo-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-18T16:30:07.291769+09:00
